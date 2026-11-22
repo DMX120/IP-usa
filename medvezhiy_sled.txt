@@ -1,1 +1,1 @@
-flavor-allow-pairs-actual.trycloudflare.com
+maintenance-gentle-weekends-headed.trycloudflare.com
